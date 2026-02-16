@@ -5,6 +5,7 @@ target/
 # Ignore everything in data/ except .pickle files
 data/*
 !data/*.pickle
+!data/*.png
 
 caches/
 slimpajama/scan*

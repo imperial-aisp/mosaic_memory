@@ -1,6 +1,10 @@
 # The Mosaic memory of Large Language Models
 
-We here elaborate on the code used to generate the results discussed in our manuscript. 
+<p align="center">
+  <img src="data/Illustration.png" width="400">
+</p>
+
+We here provide the code used to generate the results discussed in our paper ["The mosaic memory of large language models" as published in Nature Communications (2026)](https://www.nature.com/articles/s41467-026-68603-0).
 
 ## (1) Setting up the environment
 
